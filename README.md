@@ -1,5 +1,5 @@
 # Notesphere
-Pronounced Note-eh-sphere, this app is R & D browser application for note-taking solutions using angularJS integration onto a NodeJS backend.
+Pronounced Note-eh-sphere, this app is a R & D browser application for note-taking solutions using AngularJS integration onto a NodeJS backend.
 
 ### Contact Through LinkedIn
 * www.linkedin.com/in/michael-mcclure-69494655
